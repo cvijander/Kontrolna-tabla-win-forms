@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Svemirski brod\Svemirski brod\bin\Debug\net6.0-windows\Svemirski brod.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Svemirski brod\Svemirski brod\bin\Debug\net6.0-windows\Svemirski brod.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Svemirski brod\Svemirski brod\bin\Debug\net6.0-windows\Svemirski brod.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Svemirski brod\Svemirski brod\bin\Debug\net6.0-windows\Svemirski brod.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Svemirski brod\Svemirski brod\bin\Debug\net6.0-windows\Svemirski brod.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Svemirski brod\Svemirski brod\obj\Debug\net6.0-windows\Svemirski brod.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Svemirski brod\Svemirski brod\obj\Debug\net6.0-windows\Svemirski_brod.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Svemirski brod\Svemirski brod\obj\Debug\net6.0-windows\Svemirski brod.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Svemirski brod\Svemirski brod\obj\Debug\net6.0-windows\Svemirski brod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Svemirski brod\Svemirski brod\obj\Debug\net6.0-windows\Svemirski brod.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Svemirski brod\Svemirski brod\obj\Debug\net6.0-windows\Svemirski brod.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Svemirski brod\Svemirski brod\obj\Debug\net6.0-windows\Svemirski brod.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Svemirski brod\Svemirski brod\obj\Debug\net6.0-windows\Svemirski brod.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Svemirski brod\Svemirski brod\obj\Debug\net6.0-windows\refint\Svemirski brod.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Svemirski brod\Svemirski brod\obj\Debug\net6.0-windows\Svemirski brod.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Svemirski brod\Svemirski brod\obj\Debug\net6.0-windows\Svemirski brod.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Svemirski brod\Svemirski brod\obj\Debug\net6.0-windows\ref\Svemirski brod.dll
